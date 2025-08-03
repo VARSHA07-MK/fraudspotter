@@ -1,0 +1,6 @@
+Dataset Info
+~6.3 million total transactions
+
+~8,000 fraudulent transactions (~0.13%)
+
+Features include amount, oldbalanceOrg, newbalanceOrig, type, etc.
